@@ -1,0 +1,36 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="TimeStart" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">10/17/2019 07:00:00</Value>
+    </Setting>
+    <Setting Name="TimeStartEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TimeEnd" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">10/17/2019 23:00:00</Value>
+    </Setting>
+    <Setting Name="TimeEndEnabled" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="TimeInterval" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">10/17/2019 00:05:00</Value>
+    </Setting>
+    <Setting Name="Accion" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NotifyTitle" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="NotifyTextMask" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Son las {0}</Value>
+    </Setting>
+    <Setting Name="NotifyTimeMask" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HH:mm:ss</Value>
+    </Setting>
+    <Setting Name="NotifyTimeout" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">10/17/2019 00:00:10</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

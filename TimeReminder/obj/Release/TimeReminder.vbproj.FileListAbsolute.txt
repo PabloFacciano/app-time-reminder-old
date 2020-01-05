@@ -1,0 +1,11 @@
+D:\Proyectos\TimeReminder\TimeReminder\bin\Release\TimeReminder.exe.config
+D:\Proyectos\TimeReminder\TimeReminder\bin\Release\TimeReminder.exe
+D:\Proyectos\TimeReminder\TimeReminder\bin\Release\TimeReminder.pdb
+D:\Proyectos\TimeReminder\TimeReminder\bin\Release\TimeReminder.xml
+D:\Proyectos\TimeReminder\TimeReminder\obj\Release\TimeReminder.frmMain.resources
+D:\Proyectos\TimeReminder\TimeReminder\obj\Release\TimeReminder.Resources.resources
+D:\Proyectos\TimeReminder\TimeReminder\obj\Release\TimeReminder.vbproj.GenerateResource.Cache
+D:\Proyectos\TimeReminder\TimeReminder\obj\Release\TimeReminder.exe
+D:\Proyectos\TimeReminder\TimeReminder\obj\Release\TimeReminder.xml
+D:\Proyectos\TimeReminder\TimeReminder\obj\Release\TimeReminder.pdb
+D:\Proyectos\TimeReminder\TimeReminder\obj\Release\TimeReminder.frmNotificacion.resources

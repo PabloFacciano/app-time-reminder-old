@@ -1,0 +1,11 @@
+C:\Users\Técnica 2\AppData\Local\Temporary Projects\TimeReminder\bin\Debug\TimeReminder.exe.config
+D:\Proyectos\TimeReminder\TimeReminder\bin\Debug\TimeReminder.exe.config
+D:\Proyectos\TimeReminder\TimeReminder\bin\Debug\TimeReminder.exe
+D:\Proyectos\TimeReminder\TimeReminder\bin\Debug\TimeReminder.pdb
+D:\Proyectos\TimeReminder\TimeReminder\bin\Debug\TimeReminder.xml
+D:\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.frmMain.resources
+D:\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.Resources.resources
+D:\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.vbproj.GenerateResource.Cache
+D:\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.exe
+D:\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.xml
+D:\Proyectos\TimeReminder\TimeReminder\obj\Debug\TimeReminder.pdb
